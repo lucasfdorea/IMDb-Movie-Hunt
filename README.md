@@ -1,5 +1,5 @@
 # IMDb-Movie-Hunt
-APP that searches for movies from the title of the IMDb API and view their details.
+APP to search for movies by title in the IMDb API and view details.
 
 # Requirements
 Rsequires [node.js](https://nodejs.org/) installed.
